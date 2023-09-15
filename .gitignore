@@ -96,5 +96,7 @@ x509.genkey
 # Other annoying files
 #
 firmware/synaptics/startup_fw_update-fhd.img
+/output
 firmware/synaptics/startup_fw_update.img
 kernel/x509_certificate_list
+output/arch/arm/include/generated/asm/exec.h
